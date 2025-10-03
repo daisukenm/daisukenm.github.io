@@ -1,0 +1,41 @@
+baseURL: https://daisukenm.github.io
+languageCode: en-us
+title: Daisuke Nakamura
+theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+params:
+  profileMode:
+    enabled: true
+    title: "Daisuke Nakamura"
+    subtitle: "University of Vienna | Communication Science"
+    imageUrl: "images/profile.jpg"
+
+  socialIcons:
+    - name: "bluesky"
+      url: "https://bsky.app/profile/daisukenakamura.bsky.social"
+
+menu:
+  main:
+    - identifier: "Bio"
+      name: "Bio"
+      url: "/Bio/"
+      weight: 1
+
+    - identifier: "cv"
+      name: "CV"
+      url: "/cv/"
+      weight: 2
+
+    - identifier: "research"
+      name: "Research"
+      url: "/research/"
+      weight: 3
+
+    - identifier: "jp"
+      name: "日本語はこちら"
+      url: "/jp/"
+      weight: 4
