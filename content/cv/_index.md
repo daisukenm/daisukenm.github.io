@@ -8,7 +8,7 @@ You can see my full CV [here](DaisukeNakamura_SimpleCV.pdf).
 
 ---
 
-## Research Experience
+## Academic Experience
 
 **Research Assistant** (2025 – present)  
 Computational Communication Science Lab, Department of Communication, University of Vienna, Vienna, Austria
@@ -28,19 +28,5 @@ Kyoto University, Kyoto, Japan
 **Undergraduate Exchange** in Liberal Arts and Science (2022)  
 University of Melbourne, Melbourne, Australia
 
-
-## Computational Skills
-
-- **R** (Tidyverse, various statistical analyses)
-- **Python** (Web scraping, NLP, API Integration)
-- **NetLogo**
-
-
-## Languages
-
-- English (C1)
-- Japanese (Native)
-- German (A2)
-- Chinese (A2)
 
 ---
