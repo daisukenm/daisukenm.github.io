@@ -6,7 +6,7 @@ title = 'Bio'
 
 Daisuke Nakamura is a master's student in Communication Science at the University of Vienna, Austria, and a Research Assistant to Univ.-Prof. Dr. Annie Waldherr at the Computational Communication Science Lab.
 
-His research interests includes political communication, polarization, radicalization, and computational methods. He is particularly interested in short-form video content on platforms such as YouTube and TikTok, with an emphasis on political social media influencers, their formats (such as podcasts and short lectures), language use, and presentation of themselves, how these elements shapes audience engagements, and how such dynamics can be analyzed and measured using computational methods. Additionally, he is interested in the use of agent-based modeling in simulating social media's phenomena.
+His research interests include political communication, polarisation, radicalisation, and computational methods. He is particularly interested in short-form video content on platforms such as YouTube and TikTok, with an emphasis on political social media influencers, their formats (such as podcasts and short lectures), language use, and presentation of themselves, how these elements shape audience engagements, and how such dynamics can be analysed and measured using computational methods. Additionally, he is interested in the use of agent-based modelling in simulating social media phenomena.
 
 He earned his BA in Law and Politics with Distinction from Kyoto University, Japan, in 2024. In 2022, he studied liberal arts and sciences as an exchange student at the University of Melbourne, Australia.
 
