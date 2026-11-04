@@ -3,7 +3,7 @@ draft = false
 title = '自己紹介'
 +++
 
-中村太亮（だいすけ）と申します。オーストリアのウィーン大学コミュニケーション学科の博士課程（[SSHフェローシップ](https://careers.univie.ac.at/en/praedoc/praedoc-ssh)）に在籍しています。現在は、[Computational Communication Science Lab（CCL）](https://compcommlab.univie.ac.at/)と[Vienna Media Change and Innovation（VMCI）Lab](https://mediainnovation.univie.ac.at/)の両方に所属しており、Annie Waldherr教授とDesirée Schmuck教授の指導を受けています。以前は、CCLにてAnnie Waldherr教授の学生研究助手として働いていました。また、ウィーンに来る前に、学士（法学）を京都大学法学部から取得しております。
+中村太亮（だいすけ）と申します。オーストリアのウィーン大学コミュニケーション学科の博士課程（[SSHフェローシップ](https://vds-sosci.univie.ac.at/phd-in-the-spotlight#c25754)）に在籍しています。現在は、[Computational Communication Science Lab（CCL）](https://compcommlab.univie.ac.at/)と[Vienna Media Change and Innovation（VMCI）Lab](https://mediainnovation.univie.ac.at/)の両方に所属しており、Annie Waldherr教授とDesirée Schmuck教授の指導を受けています。以前は、CCLにてAnnie Waldherr教授の学生研究助手として働いていました。また、ウィーンに来る前に、学士（法学）を京都大学法学部から取得しております。
 
 私のPhDプロジェクトでは、TikTokやYouTube Shorts上の、政治家を題材とした「編集動画」（切り抜き動画に近いコンテンツ）の種類、出現頻度、視聴者の反応、およびその影響に焦点を当てています。こうした編集動画は、軽い形で政治コンテンツを提供できる一方で、政治家に対する私たちの認識に容易に影響を与えたり歪めたりする可能性があるため、特に興味深いコンテンツ形態だと考えています。ここでコンテンツを作成しているのは実在の人間であるかもしれませんし、ボットかもしれません。
 

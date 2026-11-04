@@ -3,7 +3,7 @@ draft = false
 title = 'Bio'
 +++
 
-Hi! I am Daisuke. I am a predoctoral researcher and a PhD candidate ([SSH Fellowship](https://careers.univie.ac.at/en/praedoc/praedoc-ssh)) at the Department of Communication, University of Vienna, Austria. I am affiliated with both [Computational Communication Science Lab (CCL)](https://compcommlab.univie.ac.at/) and [Vienna Media Change and Innovation (VMCI) Lab](https://mediainnovation.univie.ac.at/), supervised by Univ.-Prof. Dr. Annie Waldherr and Univ.-Prof. Dr. Desirée Schmuck. I was previously working as a student research assistant to Annie Waldherr at CCL. 
+Hi! I am Daisuke. I am a predoctoral researcher and a PhD candidate ([sowi:docs Fellowship](https://vds-sosci.univie.ac.at/phd-in-the-spotlight#c25754)) at the Department of Communication, University of Vienna, Austria. I am affiliated with both [Computational Communication Science Lab (CCL)](https://compcommlab.univie.ac.at/) and [Vienna Media Change and Innovation (VMCI) Lab](https://mediainnovation.univie.ac.at/), supervised by Univ.-Prof. Dr. Annie Waldherr and Univ.-Prof. Dr. Desirée Schmuck. I was previously working as a student research assistant to Annie Waldherr at CCL. 
 
 In my dissertation project, I focus on the types, prevalence, audience engagement, and effects of *edits* (a particular genre of short-form video) about politicians on TikTok and YouTube Shorts. I believe this is a particularly interesting form of content because those edits can provide political content in a playful way, but they can also influence/bias/distort our perception of politicians without engaging in critical thinking. Here, content creators can be real humans, but can also be bots, who knows! 
 
